@@ -30,4 +30,4 @@
 	url = https://github.com/free5gc/go-upf.git
 [submodule "webconsole"]
 	path = webconsole
-	url = https://github.com/free5gc/webconsole.git
+	url = https://github.com/VJoes/webconsole.git
